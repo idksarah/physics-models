@@ -1,0 +1,10 @@
+.vs/
+*.vcxproj.user
+
+build/
+Debug/
+Release/
+out/
+
+.DS_Store
+Thumbs.db
